@@ -1,0 +1,3 @@
+name = Drupal Traning
+description = Creates a module for Chuva's Drupal training.
+core = 7.x
